@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-notes {
+    background-image: url("./assests/14730071_rm118-ken-12.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
