@@ -1,6 +1,6 @@
 const User = require("../models/User");
 // const Profile = require("../models/Profile");
-const bcrypt = require("bcrypt");
+const bcrypt = require("bcryptjs");
 const Attachments = require("../models/Attachments");
 const {uploadFileToCloudinary} = require("../utils/imageUploader")
 
