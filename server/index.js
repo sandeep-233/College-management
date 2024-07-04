@@ -15,7 +15,7 @@ const cors = require("cors");
 const {cloudinaryConnect } = require("./config/cloudinary");
 const fileUpload = require("express-fileupload");
 const dotenv = require("dotenv");
-const Razorpay = require("razorpay");
+// const Razorpay = require("razorpay");
 // const { current } = require("@reduxjs/toolkit");
 
 dotenv.config();
