@@ -8,7 +8,7 @@ export const MyProfile = () => {
 
   return (
     <div className="bg-white h-[96%] w-[68%] ml-4 rounded-xl mr-7 mt-4 p-3">
-       <div className='flex flex-row gap-4 w-[98%] p-3 border-gray-400 border-2 rounded-md justify-around items-center overscroll-y-auto'>
+       <div className='my-profile-bg flex flex-row gap-4 w-[98%] p-3 border-gray-400 border-2 rounded-md justify-around items-center overscroll-y-auto'>
           {/* imgage */}
           <div className='flex flex-col gap-3 items-center justify-center'>
             <img 
